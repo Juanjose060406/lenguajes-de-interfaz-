@@ -13,7 +13,7 @@
 1. [Ciclos numéricos](01-Ciclos-Numericos/practica01.asm)
 2. [Captura y desplegado de mensajes](02-Captura-y-Despliegue-de-Mensajes/practica02.asm)
 3. [Comparación y prueba](03-Comparacion-y-Prueba/practica03.asm)
-4. [Saltos](04-Saltos/practica04.asm)
+4. [Saltos](Saltos/practica04.asm)
 5. [Mayor, menor o igual con entrada del usuario](04.1-Mayor-Menor-o-Igual/practica04_1.asm)
 6. [Condicionales](05-Condicionales/practica05.asm)
 7. [Repetir hasta que el usuario ingrese cero](05.1-Repetir-Hasta-Cero/practica05_1.asm)
