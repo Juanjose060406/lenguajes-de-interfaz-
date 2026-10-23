@@ -11,7 +11,7 @@ Datos generales
 
 Índice de prácticas
 
-1. "Ciclos numéricos" (practica01.asm)
+1. [Ciclos numéricos] (practica01.asm)
 2. "Captura y desplegado de mensajes" (practica02.asm)
 3. "Comparación y prueba" (practica03.asm)
 4. "Saltos" (practica04.asm)
